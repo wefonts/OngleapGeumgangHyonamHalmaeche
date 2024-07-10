@@ -9,4 +9,8 @@
     font-display: swap;
 }
 
+.OngleapGeumgangHyonamHalmaeche {
+    font-family: "OngleapGeumgangHyonamHalmaeche";
+}
+
 </pre>
